@@ -16,8 +16,6 @@
 </p>
 
  - 🥀 Learning  Python
-   
- - 🔭 .😼
  -  Full Stack Developer
 
 
