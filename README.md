@@ -19,8 +19,7 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/nolan/64/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
