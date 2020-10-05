@@ -11,6 +11,27 @@
 - 😄 Pronouns: Work is Love...
 - ⚡ Fun fact: Love to have coffee while, I am at work.
 
+<p align="center">
+  <h3> I'm 20 years old Web and Sofrtware Developer from India.</h3>
+</p>
+
+ - 🥀 Learning  Python
+   
+ - 🔭 .😼
+ -  Full Stack Developer
+
+
+ 
+ <p align="center">
+  <h4> System Design | Software Development | Web Development | Competetive Programming </h4>
+   </p>
+
+<!--
+**I am Into , 🙏**
+-->
+
+
+
 ### - Languages and Tools...
 
 <p align="center">
